@@ -1,0 +1,3 @@
+<!-- when your fine tuning will be completed, two folders like below should be created if it's not happening eithier your model is not getting saved or the path is incorrect. 
+├── adapter_config.json
+├── adapter_model.bin -->
